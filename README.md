@@ -1,4 +1,4 @@
-# Face Recognition Template
+# Face Recognition Template 🧑‍🦱
 
 Reusable face recognition with jarvis-style dot overlay. Uses OpenCV only —
 Haar cascade for detection, LBPH for recognition. No dlib, no cmake, no downloads.
